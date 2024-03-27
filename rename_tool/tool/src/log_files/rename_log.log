@@ -1,0 +1,367 @@
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season01disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season01disc2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season02disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 2 >>> {2: 0}
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season02disc2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season03disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 3
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 3 >>> {3: 0}
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season03disk2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:41 - valid Season found! >>> 3
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season01disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season01disc2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season02disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season02disc2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season03disc1
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/season03disk2
+27.03.2024 - 08:18:46 | rename_tool.tool.rename_class |  40468  - INFO     - rename_class.py:71 - success!
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 01
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e01.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e02.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e03.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e04.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e05.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s01e06.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 02
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:41 - valid Season found! >>> 2
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 2 >>> {2: 0}
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e01.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e02.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e03.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e04.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e05.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e06.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e07.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e08.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e09.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e10.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e11.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s02e12.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:36 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 03
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:41 - valid Season found! >>> 3
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 3 >>> {3: 0}
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e01.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e02.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e03.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e04.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e05.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e06.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e07.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e08.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e09.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e10.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e11.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:55 - Episode-File: Chernobyl - s03e12.txt
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 01
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 02
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Chernobyl/Season 03
+27.03.2024 - 08:19:30 | rename_tool.tool.rename_class |  36784  - INFO     - rename_class.py:71 - success!
+27.03.2024 - 08:28:57 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:28 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:29:35 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:40 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc2
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:41 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season02disc1
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 2
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 2 >>> {2: 0}
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season02disc2
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 2
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:42 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season03disc1
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 3
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 3 >>> {3: 0}
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season03disk2
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 3
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item1.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item2.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item3.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item4.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item5.txt
+27.03.2024 - 08:29:43 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: item6.txt
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc2
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season02disc1
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season02disc2
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season03disc1
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:19 - Directory removed successfully >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season03disk2
+27.03.2024 - 08:29:44 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:71 - success!
+27.03.2024 - 08:29:57 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:57 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:29:59 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/season01disc1
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:17 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 01
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:41 - valid Season found! >>> 1
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:46 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e01.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e02.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e03.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e04.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e05.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e06.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e07.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e08.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e09.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e10.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e11.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - INFO     - rename_class.py:55 - Episode-File: Game of Thrones - s01e12.txt
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:31:21 | rename_tool.tool.rename_class |  41756  - DEBUG    - rename_class.py:36 - active season path >>> Z:/Dennis/rename_tool/test_data_01/Game of Thrones/Season 02
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season01disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season01disc2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season02disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 2 >>> {2: 0}
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season02disc2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season03disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 3
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 3 >>> {3: 0}
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/season03disk2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:49 - valid Season found! >>> 3
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item1.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item2.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item3.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item4.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item5.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:63 - Episode-File: item6.txt
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season01disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season01disc2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season02disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season02disc2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season03disc1
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - DEBUG    - rename_class.py:20 - Directory removed successfully >>> C:\Users\hildwein\Documents\Dennis\rename_tool\test_data_02\Vikings\season03disk2
+27.03.2024 - 08:40:24 | rename_tool.tool.rename_class |  38432  - INFO     - rename_class.py:78 - success!
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/Season 01
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:49 - valid Season found! >>> 1
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 1 >>> {1: 0}
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e01.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e02.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e03.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e04.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e05.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e06.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e07.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e08.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e09.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e10.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e11.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s01e12.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/Season 02
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:49 - valid Season found! >>> 2
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 2 >>> {2: 0}
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e01.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e02.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e03.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e04.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e05.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e06.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e07.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e08.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e09.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e10.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e11.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s02e12.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:44 - active season path >>> C:/Users/hildwein/Documents/Dennis/rename_tool/test_data_02/Vikings/Season 03
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:49 - valid Season found! >>> 3
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - DEBUG    - rename_class.py:54 - Created episode counter for season >>> 3 >>> {3: 0}
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e01.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e02.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e03.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e04.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e05.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e06.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e07.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e08.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e09.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e10.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e11.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:63 - Episode-File: Vikings - s03e12.txt
+27.03.2024 - 08:41:04 | rename_tool.tool.rename_class |  35272  - INFO     - rename_class.py:78 - success!
