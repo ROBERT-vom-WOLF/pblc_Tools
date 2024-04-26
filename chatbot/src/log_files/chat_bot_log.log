@@ -1,0 +1,685 @@
+09.04.2024 - 08:36:17 | __chat_bot__ |  1932   - DEBUG    - main.py   :226 - Startup...
+09.04.2024 - 08:36:30 | __chat_bot__ |  1932   - DEBUG    - main.py   :118 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 08:36:35 | __chat_bot__ |  1932   - DEBUG    - main.py   :118 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 08:36:35 | __chat_bot__ |  1932   - DEBUG    - main.py   :237 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 08:36:45 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 5 sec. >>> test 5
+09.04.2024 - 08:36:50 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:36:51 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 1 sec. >>> test 5
+09.04.2024 - 08:36:52 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:36:52 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 7 sec. >>> test 5
+09.04.2024 - 08:36:59 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:36:59 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 3 sec. >>> test 5
+09.04.2024 - 08:37:02 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:03 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 2 sec. >>> test 5
+09.04.2024 - 08:37:05 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:05 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 4 sec. >>> test 5
+09.04.2024 - 08:37:09 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:09 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 4 sec. >>> test 5
+09.04.2024 - 08:37:13 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:14 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 1 sec. >>> test 5
+09.04.2024 - 08:37:15 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:15 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 5 sec. >>> test 5
+09.04.2024 - 08:37:20 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:20 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 5 sec. >>> test 5
+09.04.2024 - 08:37:25 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:26 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 6 sec. >>> test 5
+09.04.2024 - 08:37:32 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:32 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 4 sec. >>> test 1
+09.04.2024 - 08:37:36 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 1
+09.04.2024 - 08:37:36 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 6 sec. >>> test 5
+09.04.2024 - 08:37:42 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:43 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 1 sec. >>> test 5
+09.04.2024 - 08:37:44 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:44 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 3 sec. >>> hallo chat
+09.04.2024 - 08:37:47 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> hallo chat
+09.04.2024 - 08:37:47 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 1 sec. >>> test 5
+09.04.2024 - 08:37:48 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:48 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 7 sec. >>> test 5
+09.04.2024 - 08:37:55 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:37:56 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 4 sec. >>> test 5
+09.04.2024 - 08:38:00 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:38:00 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 6 sec. >>> test 5
+09.04.2024 - 08:38:06 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:38:06 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 8 sec. >>> test 5
+09.04.2024 - 08:38:14 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:38:15 | __chat_bot__ |  1524   - DEBUG    - main.py   :118 - Sending message in 8 sec. >>> test 5
+09.04.2024 - 08:39:18 | __chat_bot__ |  20040  - DEBUG    - main.py   :226 - Startup...
+09.04.2024 - 08:39:30 | __chat_bot__ |  20040  - DEBUG    - main.py   :118 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 08:39:31 | __chat_bot__ |  20040  - DEBUG    - main.py   :118 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 08:39:32 | __chat_bot__ |  20040  - DEBUG    - main.py   :237 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 08:39:44 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:39:53 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:39:55 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:02 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:08 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:09 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:14 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:19 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:20 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:24 | __chat_bot__ |  13328  - DEBUG    - main.py   :118 - Message sent >>> test 5
+09.04.2024 - 08:40:55 | __chat_bot__ |  16804  - DEBUG    - main.py   :227 - Startup...
+09.04.2024 - 08:45:29 | __chat_bot__ |  29676  - DEBUG    - main.py   :227 - Startup...
+09.04.2024 - 08:45:46 | __chat_bot__ |  29676  - DEBUG    - main.py   :118 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 08:45:57 | __chat_bot__ |  29676  - DEBUG    - main.py   :118 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 08:45:58 | __chat_bot__ |  29676  - DEBUG    - main.py   :238 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 08:46:10 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Schweiz
+09.04.2024 - 08:46:17 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Island
+09.04.2024 - 08:46:23 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Komoren
+09.04.2024 - 08:46:29 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Bulgarien
+09.04.2024 - 08:46:37 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Ã–sterreich
+09.04.2024 - 08:46:45 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Komoren
+09.04.2024 - 08:46:49 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Singapur
+09.04.2024 - 08:46:52 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Uganda
+09.04.2024 - 08:46:54 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Liberia
+09.04.2024 - 08:47:00 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Kiribati
+09.04.2024 - 08:47:04 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Kongo, Republik
+09.04.2024 - 08:47:12 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Kasachstan
+09.04.2024 - 08:47:15 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Mexiko
+09.04.2024 - 08:47:20 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Ecuador
+09.04.2024 - 08:47:23 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Saudi-Arabien
+09.04.2024 - 08:47:29 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Kamerun
+09.04.2024 - 08:47:34 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Brunei
+09.04.2024 - 08:47:37 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Montenegro
+09.04.2024 - 08:47:43 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> SÃ¼dafrika
+09.04.2024 - 08:47:48 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Vereinigte Staaten von Amerika
+09.04.2024 - 08:47:53 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Argentinien
+09.04.2024 - 08:48:02 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Brunei
+09.04.2024 - 08:48:10 | __chat_bot__ |  640    - DEBUG    - main.py   :118 - Message sent >>> Belarus
+09.04.2024 - 08:51:36 | __chat_bot__ |  29676  - DEBUG    - main.py   :238 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 08:51:48 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Ukraine
+09.04.2024 - 08:51:56 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Korea, Nord
+09.04.2024 - 08:52:01 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Osttimor
+09.04.2024 - 08:52:06 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Uruguay
+09.04.2024 - 08:52:07 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Korea, Nord
+09.04.2024 - 08:52:10 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Komoren
+09.04.2024 - 08:52:18 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Kasachstan
+09.04.2024 - 08:52:21 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Laos
+09.04.2024 - 08:52:29 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> Saudi-Arabien
+09.04.2024 - 08:52:35 | __chat_bot__ |  31648  - DEBUG    - main.py   :118 - Message sent >>> TÃ¼rkei
+09.04.2024 - 08:59:09 | __chat_bot__ |  20256  - DEBUG    - main.py   :228 - Startup...
+09.04.2024 - 09:01:17 | __chat_bot__ |  13980  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 09:01:49 | __chat_bot__ |  16512  - DEBUG    - main.py   :231 - Startup...
+09.04.2024 - 09:02:24 | __chat_bot__ |  30240  - DEBUG    - main.py   :231 - Startup...
+09.04.2024 - 09:02:47 | __chat_bot__ |  23208  - DEBUG    - main.py   :231 - Startup...
+09.04.2024 - 09:12:18 | __chat_bot__ |  29276  - DEBUG    - main.py   :233 - Startup...
+09.04.2024 - 09:12:34 | __chat_bot__ |  29276  - DEBUG    - main.py   :124 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 09:12:37 | __chat_bot__ |  29276  - DEBUG    - main.py   :124 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 09:12:40 | __chat_bot__ |  29276  - DEBUG    - main.py   :244 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:12:53 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Vatikanstadt
+09.04.2024 - 09:13:01 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Nicaragua
+09.04.2024 - 09:13:04 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Suriname
+09.04.2024 - 09:13:11 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Bulgarien
+09.04.2024 - 09:13:19 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Libanon
+09.04.2024 - 09:13:25 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Malediven
+09.04.2024 - 09:13:30 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Malaysia
+09.04.2024 - 09:13:31 | __chat_bot__ |  13424  - DEBUG    - main.py   :124 - Message sent >>> Tunesien
+09.04.2024 - 09:15:57 | __chat_bot__ |  30324  - DEBUG    - main.py   :228 - Startup...
+09.04.2024 - 09:16:06 | __chat_bot__ |  30324  - DEBUG    - main.py   :122 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 09:16:10 | __chat_bot__ |  30324  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 09:16:11 | __chat_bot__ |  30324  - DEBUG    - main.py   :239 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:16:26 | __chat_bot__ |  16508  - DEBUG    - main.py   :122 - Message sent >>> Georgien
+09.04.2024 - 09:16:27 | __chat_bot__ |  16508  - DEBUG    - main.py   :122 - Message sent >>> Eritrea
+09.04.2024 - 09:16:29 | __chat_bot__ |  16508  - DEBUG    - main.py   :122 - Message sent >>> Schweden
+09.04.2024 - 09:17:25 | __chat_bot__ |  9732   - DEBUG    - main.py   :228 - Startup...
+09.04.2024 - 09:17:37 | __chat_bot__ |  9732   - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 09:17:38 | __chat_bot__ |  9732   - DEBUG    - main.py   :122 - coordinates changed >>> x=400, y=900
+09.04.2024 - 09:17:40 | __chat_bot__ |  9732   - DEBUG    - main.py   :239 - Startup Chat-Bot >>> {'x': 400, 'y': 900, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:17:56 | __chat_bot__ |  9732   - DEBUG    - main.py   :239 - Startup Chat-Bot >>> {'x': 400, 'y': 900, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:17:56 | __chat_bot__ |  5224   - DEBUG    - main.py   :122 - Message sent >>> Niger
+09.04.2024 - 09:17:58 | __chat_bot__ |  5224   - DEBUG    - main.py   :122 - Message sent >>> Malaysia
+09.04.2024 - 09:17:59 | __chat_bot__ |  5224   - DEBUG    - main.py   :122 - Message sent >>> Kolumbien
+09.04.2024 - 09:18:07 | __chat_bot__ |  9732   - DEBUG    - main.py   :239 - Startup Chat-Bot >>> {'x': 400, 'y': 900, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:18:25 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Vereinigtes KÃ¶nigreich
+09.04.2024 - 09:18:33 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Kenia
+09.04.2024 - 09:18:34 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Tschad
+09.04.2024 - 09:18:39 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Namibia
+09.04.2024 - 09:18:45 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Kolumbien
+09.04.2024 - 09:18:51 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Botswana
+09.04.2024 - 09:18:55 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Kongo, Republik
+09.04.2024 - 09:18:56 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Tschechien
+09.04.2024 - 09:19:00 | __chat_bot__ |  20988  - DEBUG    - main.py   :122 - Message sent >>> Kirgisistan
+09.04.2024 - 09:22:17 | __chat_bot__ |  28924  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 09:22:21 | __chat_bot__ |  28924  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt
+09.04.2024 - 09:22:31 | __chat_bot__ |  28924  - DEBUG    - main.py   :122 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 09:22:37 | __chat_bot__ |  28924  - DEBUG    - main.py   :240 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Annoying/chatbot/src/templates_messages.txt'}
+09.04.2024 - 09:22:51 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Uzbekistan
+09.04.2024 - 09:22:59 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Liechtenstein
+09.04.2024 - 09:23:00 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Albania
+09.04.2024 - 09:23:06 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Tonga
+09.04.2024 - 09:23:14 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Mongolia
+09.04.2024 - 09:23:22 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Czech Republic
+09.04.2024 - 09:23:25 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Korea, North
+09.04.2024 - 09:23:27 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Costa Rica
+09.04.2024 - 09:23:31 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Nigeria
+09.04.2024 - 09:23:33 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Vanuatu
+09.04.2024 - 09:23:41 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Dominica
+09.04.2024 - 09:23:43 | __chat_bot__ |  29192  - DEBUG    - main.py   :122 - Message sent >>> Taiwan
+09.04.2024 - 09:50:45 | __chat_bot__ |  16160  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 11:41:12 | __chat_bot__ |  15060  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:03 | __chat_bot__ |  7920   - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:08 | __chat_bot__ |  14948  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:28 | __chat_bot__ |  28888  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:34 | __chat_bot__ |  1384   - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:45 | __chat_bot__ |  28188  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:10:50 | __chat_bot__ |  14912  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:13:54 | __chat_bot__ |  22340  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:15:03 | __chat_bot__ |  22340  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 12:15:09 | __chat_bot__ |  22340  - DEBUG    - main.py   :122 - coordinates changed >>> x=2226, y=60
+09.04.2024 - 12:15:15 | __chat_bot__ |  22340  - DEBUG    - main.py   :240 - Startup Chat-Bot >>> {'x': 2226, 'y': 60, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 12:15:26 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> Luxembourg
+09.04.2024 - 12:15:33 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> Tajikistan
+09.04.2024 - 12:15:37 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> Qatar
+09.04.2024 - 12:15:38 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> India
+09.04.2024 - 12:15:45 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> East Timor
+09.04.2024 - 12:15:54 | __chat_bot__ |  33404  - DEBUG    - main.py   :122 - Message sent >>> Portugal
+09.04.2024 - 12:16:36 | __chat_bot__ |  22340  - DEBUG    - main.py   :122 - coordinates changed >>> x=343, y=45454
+09.04.2024 - 12:17:00 | __chat_bot__ |  22340  - DEBUG    - main.py   :122 - delay changed >>> min=20, max=50
+09.04.2024 - 12:17:33 | __chat_bot__ |  32168  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 12:18:09 | __chat_bot__ |  32168  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 12:18:10 | __chat_bot__ |  32168  - DEBUG    - main.py   :240 - Startup Chat-Bot >>> {'x': 0, 'y': 0, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 12:18:21 | __chat_bot__ |  32756  - DEBUG    - main.py   :122 - Message sent >>> Italy
+09.04.2024 - 13:22:13 | __chat_bot__ |  28676  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 13:22:27 | __chat_bot__ |  28676  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:22:28 | __chat_bot__ |  28676  - DEBUG    - main.py   :240 - Startup Chat-Bot >>> {'x': 0, 'y': 0, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 13:22:44 | __chat_bot__ |  26324  - DEBUG    - main.py   :122 - Message sent >>> Iceland
+09.04.2024 - 13:24:44 | __chat_bot__ |  27088  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 13:24:50 | __chat_bot__ |  27088  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:25:22 | __chat_bot__ |  13180  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 13:25:25 | __chat_bot__ |  13180  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:25:36 | __chat_bot__ |  16540  - DEBUG    - main.py   :229 - Startup...
+09.04.2024 - 13:25:40 | __chat_bot__ |  16540  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:26:16 | __chat_bot__ |  33592  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:26:38 | __chat_bot__ |  33592  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:26:45 | __chat_bot__ |  33592  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 13:26:58 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Colombia
+09.04.2024 - 13:27:01 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Mongolia
+09.04.2024 - 13:27:08 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Burundi
+09.04.2024 - 13:27:15 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Korea, South
+09.04.2024 - 13:27:19 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Congo, Republic
+09.04.2024 - 13:27:20 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Fiji
+09.04.2024 - 13:27:26 | __chat_bot__ |  31448  - DEBUG    - main.py   :122 - Message sent >>> Belize
+09.04.2024 - 13:28:06 | __chat_bot__ |  30056  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:28:15 | __chat_bot__ |  30056  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:29:05 | __chat_bot__ |  23200  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:29:34 | __chat_bot__ |  16788  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:32:33 | __chat_bot__ |  7396   - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:32:39 | __chat_bot__ |  7396   - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:32:39 | __chat_bot__ |  7396   - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 13:32:55 | __chat_bot__ |  24772  - DEBUG    - main.py   :122 - Message sent >>> Germany
+09.04.2024 - 13:33:01 | __chat_bot__ |  24772  - DEBUG    - main.py   :122 - Message sent >>> Seychelles
+09.04.2024 - 13:33:07 | __chat_bot__ |  24772  - DEBUG    - main.py   :122 - Message sent >>> Switzerland
+09.04.2024 - 13:33:13 | __chat_bot__ |  24772  - DEBUG    - main.py   :122 - Message sent >>> Grenada
+09.04.2024 - 13:33:19 | __chat_bot__ |  24772  - DEBUG    - main.py   :122 - Message sent >>> Luxembourg
+09.04.2024 - 13:34:13 | __chat_bot__ |  13428  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 13:34:23 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/chatbot_functions.py
+09.04.2024 - 13:34:33 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:34:37 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/logger.py
+09.04.2024 - 13:34:39 | __chat_bot__ |  13428  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/logger.py'}
+09.04.2024 - 13:34:57 | __chat_bot__ |  30644  - DEBUG    - main.py   :122 - Message sent >>> # Add handlers to the logger
+09.04.2024 - 13:35:03 | __chat_bot__ |  30644  - DEBUG    - main.py   :122 - Message sent >>> 
+09.04.2024 - 13:35:06 | __chat_bot__ |  30644  - DEBUG    - main.py   :122 - Message sent >>> logger.setLevel(logging.DEBUG)
+09.04.2024 - 13:35:11 | __chat_bot__ |  30644  - DEBUG    - main.py   :122 - Message sent >>> # Set formatter for each handler
+09.04.2024 - 13:49:18 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:49:19 | __chat_bot__ |  13428  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 13:49:35 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Australia
+09.04.2024 - 13:49:36 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 13:49:40 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Czech Republic
+09.04.2024 - 13:49:48 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> TÃ¼rkiye
+09.04.2024 - 13:49:51 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Jordan
+09.04.2024 - 13:49:54 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Australia
+09.04.2024 - 13:50:01 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Peru
+09.04.2024 - 13:50:03 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bolivia
+09.04.2024 - 13:50:08 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Eswatini
+09.04.2024 - 13:50:09 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Australia
+09.04.2024 - 13:50:14 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> East Timor
+09.04.2024 - 13:50:18 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bahamas
+09.04.2024 - 13:50:21 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Belize
+09.04.2024 - 13:50:23 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Chile
+09.04.2024 - 13:50:28 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Lithuania
+09.04.2024 - 13:50:32 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Lebanon
+09.04.2024 - 13:50:35 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Yemen
+09.04.2024 - 13:50:38 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Saint Vincent and the Grenadines
+09.04.2024 - 13:50:43 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Belarus
+09.04.2024 - 13:50:47 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Venezuela
+09.04.2024 - 13:50:49 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Dominica
+09.04.2024 - 13:50:56 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Belize
+09.04.2024 - 13:51:01 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Papua New Guinea
+09.04.2024 - 13:51:06 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Morocco
+09.04.2024 - 13:51:11 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Suriname
+09.04.2024 - 13:51:19 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Armenia
+09.04.2024 - 13:51:22 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Hungary
+09.04.2024 - 13:51:25 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Australia
+09.04.2024 - 13:51:30 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Antigua and Barbuda
+09.04.2024 - 13:51:32 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Kuwait
+09.04.2024 - 13:51:38 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Moldova
+09.04.2024 - 13:51:41 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Cameroon
+09.04.2024 - 13:51:45 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Paraguay
+09.04.2024 - 13:51:49 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bulgaria
+09.04.2024 - 13:51:55 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Haiti
+09.04.2024 - 13:51:58 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Spain
+09.04.2024 - 13:52:02 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Tanzania
+09.04.2024 - 13:52:07 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Australia
+09.04.2024 - 13:52:14 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Indonesia
+09.04.2024 - 13:52:22 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Mauritania
+09.04.2024 - 13:52:28 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bahrain
+09.04.2024 - 13:52:33 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> South Africa
+09.04.2024 - 13:52:40 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Grenada
+09.04.2024 - 13:52:47 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bangladesh
+09.04.2024 - 13:52:52 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Ireland
+09.04.2024 - 13:52:53 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Ethiopia
+09.04.2024 - 13:52:57 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bhutan
+09.04.2024 - 13:53:04 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Romania
+09.04.2024 - 13:53:06 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Indonesia
+09.04.2024 - 13:53:09 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Croatia
+09.04.2024 - 13:53:16 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Poland
+09.04.2024 - 13:53:19 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Venezuela
+09.04.2024 - 13:53:27 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Equatorial Guinea
+09.04.2024 - 13:53:34 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Albania
+09.04.2024 - 13:53:36 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Dominica
+09.04.2024 - 13:53:40 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> New Zealand
+09.04.2024 - 13:53:48 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Azerbaijan
+09.04.2024 - 13:53:54 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Guinea Bissau
+09.04.2024 - 13:54:01 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Belgium
+09.04.2024 - 13:54:02 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 13:54:10 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> United States of America
+09.04.2024 - 13:54:15 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Comoros
+09.04.2024 - 13:54:17 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Poland
+09.04.2024 - 13:54:24 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Poland
+09.04.2024 - 13:54:29 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Colombia
+09.04.2024 - 13:54:36 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Trinidad and Tobago
+09.04.2024 - 13:54:43 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Germany
+09.04.2024 - 13:54:47 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Brazil
+09.04.2024 - 13:54:51 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Cambodia
+09.04.2024 - 13:54:56 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Latvia
+09.04.2024 - 13:54:59 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Korea, South
+09.04.2024 - 13:55:07 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Myanmar
+09.04.2024 - 13:55:15 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Lesotho
+09.04.2024 - 13:55:23 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Kosovo
+09.04.2024 - 13:55:29 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Dominica
+09.04.2024 - 13:55:35 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bahrain
+09.04.2024 - 13:55:36 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Libya
+09.04.2024 - 13:55:42 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Azerbaijan
+09.04.2024 - 13:55:44 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Solomon Islands
+09.04.2024 - 13:55:45 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Vietnam
+09.04.2024 - 13:55:47 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Belarus
+09.04.2024 - 13:55:53 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Tuvalu
+09.04.2024 - 13:55:56 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> San Marino
+09.04.2024 - 13:56:03 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Singapore
+09.04.2024 - 13:56:11 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> South Africa
+09.04.2024 - 13:56:18 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Bosnia and Herzegovina
+09.04.2024 - 13:56:26 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Japan
+09.04.2024 - 13:56:30 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Maldives
+09.04.2024 - 13:56:31 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Samoa
+09.04.2024 - 13:56:39 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Korea, North
+09.04.2024 - 13:56:43 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Lithuania
+09.04.2024 - 13:56:49 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Kazakhstan
+09.04.2024 - 13:56:56 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Georgia
+09.04.2024 - 13:56:57 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Iran
+09.04.2024 - 13:57:02 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Nauru
+09.04.2024 - 13:57:03 | __chat_bot__ |  27480  - DEBUG    - main.py   :122 - Message sent >>> Paraguay
+09.04.2024 - 13:59:02 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - delay changed >>> min=0, max=1
+09.04.2024 - 13:59:09 | __chat_bot__ |  13428  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 13:59:10 | __chat_bot__ |  13428  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 0, 'delay_max': 1, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 13:59:22 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Japan
+09.04.2024 - 13:59:23 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> South Sudan
+09.04.2024 - 13:59:24 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Guinea
+09.04.2024 - 13:59:25 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Pakistan
+09.04.2024 - 13:59:25 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Andorra
+09.04.2024 - 13:59:26 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Marshall Islands
+09.04.2024 - 13:59:26 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 13:59:27 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Switzerland
+09.04.2024 - 13:59:28 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> East Timor
+09.04.2024 - 13:59:30 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Nigeria
+09.04.2024 - 13:59:31 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 13:59:31 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> India
+09.04.2024 - 13:59:32 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Burkina Faso
+09.04.2024 - 13:59:33 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Bosnia and Herzegovina
+09.04.2024 - 13:59:34 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Monaco
+09.04.2024 - 13:59:35 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Dominican Republic
+09.04.2024 - 13:59:35 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Tuvalu
+09.04.2024 - 13:59:36 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Kuwait
+09.04.2024 - 13:59:36 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> India
+09.04.2024 - 13:59:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malawi
+09.04.2024 - 13:59:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Costa Rica
+09.04.2024 - 13:59:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Micronesia
+09.04.2024 - 13:59:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Sri Lanka
+09.04.2024 - 13:59:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Tajikistan
+09.04.2024 - 13:59:39 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Micronesia
+09.04.2024 - 13:59:39 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Haiti
+09.04.2024 - 13:59:40 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Slovakia
+09.04.2024 - 13:59:40 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> United States of America
+09.04.2024 - 13:59:41 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Bolivia
+09.04.2024 - 13:59:43 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> South Sudan
+09.04.2024 - 13:59:43 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mali
+09.04.2024 - 13:59:44 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Indonesia
+09.04.2024 - 13:59:45 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Sudan
+09.04.2024 - 13:59:46 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Bulgaria
+09.04.2024 - 13:59:48 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Ireland
+09.04.2024 - 13:59:49 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Panama
+09.04.2024 - 13:59:49 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Oman
+09.04.2024 - 13:59:50 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Jordan
+09.04.2024 - 13:59:52 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Russia
+09.04.2024 - 13:59:52 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Niger
+09.04.2024 - 13:59:53 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Brunei
+09.04.2024 - 13:59:53 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Germany
+09.04.2024 - 13:59:54 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Afghanistan
+09.04.2024 - 13:59:55 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malta
+09.04.2024 - 13:59:56 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Sierra Leone
+09.04.2024 - 13:59:57 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Pakistan
+09.04.2024 - 13:59:57 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Tanzania
+09.04.2024 - 13:59:58 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Micronesia
+09.04.2024 - 14:00:00 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Senegal
+09.04.2024 - 14:00:01 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 14:00:01 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Sudan
+09.04.2024 - 14:00:01 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Tajikistan
+09.04.2024 - 14:00:01 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mauritania
+09.04.2024 - 14:00:02 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Uganda
+09.04.2024 - 14:00:03 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Papua New Guinea
+09.04.2024 - 14:00:03 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malta
+09.04.2024 - 14:00:03 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Libya
+09.04.2024 - 14:00:04 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malawi
+09.04.2024 - 14:00:06 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Kazakhstan
+09.04.2024 - 14:00:07 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Trinidad and Tobago
+09.04.2024 - 14:00:08 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Saint Lucia
+09.04.2024 - 14:00:08 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Belgium
+09.04.2024 - 14:00:09 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malta
+09.04.2024 - 14:00:10 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Liechtenstein
+09.04.2024 - 14:00:11 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Brazil
+09.04.2024 - 14:00:11 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Gabon
+09.04.2024 - 14:00:11 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Italy
+09.04.2024 - 14:00:11 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Sri Lanka
+09.04.2024 - 14:00:13 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Malawi
+09.04.2024 - 14:00:14 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Netherlands
+09.04.2024 - 14:00:14 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Costa Rica
+09.04.2024 - 14:00:15 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Andorra
+09.04.2024 - 14:00:17 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Palau
+09.04.2024 - 14:00:18 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Ukraine
+09.04.2024 - 14:00:18 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Morocco
+09.04.2024 - 14:00:18 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Togo
+09.04.2024 - 14:00:18 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Congo, Democratic Republic
+09.04.2024 - 14:00:19 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Monaco
+09.04.2024 - 14:00:19 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Saint Lucia
+09.04.2024 - 14:00:20 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> India
+09.04.2024 - 14:00:21 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Equatorial Guinea
+09.04.2024 - 14:00:21 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> South Sudan
+09.04.2024 - 14:00:22 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Switzerland
+09.04.2024 - 14:00:23 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Haiti
+09.04.2024 - 14:00:23 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Central African Republic
+09.04.2024 - 14:00:24 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Cameroon
+09.04.2024 - 14:00:24 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Jamaica
+09.04.2024 - 14:00:25 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Hungary
+09.04.2024 - 14:00:26 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Cape Verde
+09.04.2024 - 14:00:26 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Russia
+09.04.2024 - 14:00:27 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> El Salvador
+09.04.2024 - 14:00:27 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Algeria
+09.04.2024 - 14:00:28 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mexico
+09.04.2024 - 14:00:29 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Marshall Islands
+09.04.2024 - 14:00:30 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Ukraine
+09.04.2024 - 14:00:30 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> United States of America
+09.04.2024 - 14:00:30 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Honduras
+09.04.2024 - 14:00:31 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Belize
+09.04.2024 - 14:00:32 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Marshall Islands
+09.04.2024 - 14:00:33 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Algeria
+09.04.2024 - 14:00:33 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Costa Rica
+09.04.2024 - 14:00:34 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Luxembourg
+09.04.2024 - 14:00:35 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Saint Vincent and the Grenadines
+09.04.2024 - 14:00:36 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Yemen
+09.04.2024 - 14:00:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Oman
+09.04.2024 - 14:00:37 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Zimbabwe
+09.04.2024 - 14:00:38 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Greece
+09.04.2024 - 14:00:38 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Burundi
+09.04.2024 - 14:00:38 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Andorra
+09.04.2024 - 14:00:39 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Philippines
+09.04.2024 - 14:00:39 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Bosnia and Herzegovina
+09.04.2024 - 14:00:41 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Belize
+09.04.2024 - 14:00:42 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Palau
+09.04.2024 - 14:00:43 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Denmark
+09.04.2024 - 14:00:43 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Solomon Islands
+09.04.2024 - 14:00:44 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Equatorial Guinea
+09.04.2024 - 14:00:45 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Solomon Islands
+09.04.2024 - 14:00:45 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Singapore
+09.04.2024 - 14:00:46 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Kiribati
+09.04.2024 - 14:00:47 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Mauritania
+09.04.2024 - 14:00:48 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Tajikistan
+09.04.2024 - 14:00:49 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Brunei
+09.04.2024 - 14:00:49 | __chat_bot__ |  23916  - DEBUG    - main.py   :122 - Message sent >>> Denmark
+09.04.2024 - 14:14:09 | __chat_bot__ |  34076  - DEBUG    - main.py   :230 - Startup...
+09.04.2024 - 14:14:17 | __chat_bot__ |  34076  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+09.04.2024 - 14:14:39 | __chat_bot__ |  34076  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+09.04.2024 - 14:14:52 | __chat_bot__ |  6876   - DEBUG    - main.py   :122 - Message sent >>> Laos
+09.04.2024 - 14:14:55 | __chat_bot__ |  6876   - DEBUG    - main.py   :122 - Message sent >>> Saudi Arabia
+10.04.2024 - 09:39:48 | __chat_bot__ |  30292  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 09:43:31 | __chat_bot__ |  28508  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:26:46 | __chat_bot__ |  12792  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:26:54 | __chat_bot__ |  13052  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:26:58 | __chat_bot__ |  21576  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:27:04 | __chat_bot__ |  21576  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+10.04.2024 - 10:27:05 | __chat_bot__ |  21576  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+10.04.2024 - 10:27:19 | __chat_bot__ |  34400  - DEBUG    - main.py   :122 - Message sent >>> Mauritania
+10.04.2024 - 10:27:20 | __chat_bot__ |  34400  - DEBUG    - main.py   :122 - Message sent >>> Nauru
+10.04.2024 - 10:31:06 | __chat_bot__ |  35024  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:31:28 | __chat_bot__ |  34016  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:33:33 | __chat_bot__ |  16540  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:34:10 | __chat_bot__ |  16540  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:34:14 | __chat_bot__ |  16540  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+10.04.2024 - 10:34:24 | __chat_bot__ |  16540  - DEBUG    - main.py   :122 - delay changed >>> min=0, max=1
+10.04.2024 - 10:34:26 | __chat_bot__ |  16540  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 0, 'delay_max': 1, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+10.04.2024 - 10:34:37 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:34:38 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:34:39 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:40 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:34:41 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:34:42 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:34:43 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:34:44 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:34:44 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:44 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:44 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:34:45 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:34:45 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:34:46 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:47 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:34:48 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:49 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:34:49 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:34:50 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:34:51 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:52 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:53 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:53 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:53 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:54 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:34:55 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:34:55 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:34:55 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:34:55 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:34:56 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:34:56 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:34:57 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:34:57 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:58 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:58 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:34:59 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:35:00 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:35:00 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:35:02 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:35:02 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:35:03 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:35:04 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:35:04 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:35:05 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:35:06 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:35:06 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:35:07 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:35:08 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:35:09 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:35:10 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:35:11 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:35:12 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:35:14 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:35:15 | __chat_bot__ |  15412  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:36:12 | __chat_bot__ |  16540  - DEBUG    - main.py   :122 - coordinates changed >>> x=760, y=960
+10.04.2024 - 10:36:25 | __chat_bot__ |  16540  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt
+10.04.2024 - 10:36:38 | __chat_bot__ |  16540  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': 760, 'y': 960, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/src/templates_messages.txt'}
+10.04.2024 - 10:36:49 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Mauritius
+10.04.2024 - 10:36:53 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Guatemala
+10.04.2024 - 10:37:00 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Kuwait
+10.04.2024 - 10:37:06 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Austria
+10.04.2024 - 10:37:14 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Monaco
+10.04.2024 - 10:37:15 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Egypt
+10.04.2024 - 10:37:16 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Guinea
+10.04.2024 - 10:37:23 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Rwanda
+10.04.2024 - 10:37:27 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Mozambique
+10.04.2024 - 10:37:30 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Gabon
+10.04.2024 - 10:37:33 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Poland
+10.04.2024 - 10:37:35 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Kenya
+10.04.2024 - 10:37:40 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Netherlands
+10.04.2024 - 10:37:49 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> United Kingdom
+10.04.2024 - 10:37:52 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Hungary
+10.04.2024 - 10:37:57 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Uganda
+10.04.2024 - 10:38:06 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Senegal
+10.04.2024 - 10:38:08 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Burkina Faso
+10.04.2024 - 10:38:10 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Niger
+10.04.2024 - 10:38:17 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Slovenia
+10.04.2024 - 10:38:22 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Luxembourg
+10.04.2024 - 10:38:23 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Finland
+10.04.2024 - 10:38:31 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Israel
+10.04.2024 - 10:38:39 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Afghanistan
+10.04.2024 - 10:38:41 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Colombia
+10.04.2024 - 10:38:43 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Korea, North
+10.04.2024 - 10:38:50 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Laos
+10.04.2024 - 10:38:51 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Uganda
+10.04.2024 - 10:38:59 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Congo, Democratic Republic
+10.04.2024 - 10:39:06 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Germany
+10.04.2024 - 10:39:14 | __chat_bot__ |  35240  - DEBUG    - main.py   :122 - Message sent >>> Namibia
+10.04.2024 - 10:41:04 | __chat_bot__ |  16512  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:41:12 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:41:17 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - delay changed >>> min=1, max=2
+10.04.2024 - 10:41:19 | __chat_bot__ |  16512  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 2, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+10.04.2024 - 10:41:30 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:41:32 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:41:34 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:41:35 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:41:37 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:41:39 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:41:41 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:41:43 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:41:44 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:41:45 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:41:47 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:41:49 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:41:50 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:41:51 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:41:54 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:41:55 | __chat_bot__ |  33168  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:43:58 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:44:23 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:45:31 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:45:35 | __chat_bot__ |  16512  - DEBUG    - main.py   :122 - delay changed >>> min=1, max=2
+10.04.2024 - 10:45:40 | __chat_bot__ |  16512  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 2, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+10.04.2024 - 10:45:51 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:45:53 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:45:56 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:45:57 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:45:59 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> du klugheits-verweigerer :(
+10.04.2024 - 10:46:01 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:46:02 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:46:05 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> Ich mag Zuege
+10.04.2024 - 10:46:07 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:46:09 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> du klugheits-verweigerer :(
+10.04.2024 - 10:46:11 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum hast du meine schwester angebaggert?
+10.04.2024 - 10:46:13 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:46:15 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:46:16 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:46:18 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:46:20 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> ich hab kein bock mehr
+10.04.2024 - 10:46:22 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:46:24 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:46:25 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:26 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:28 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> Ich esse gerne Kuratz
+10.04.2024 - 10:46:29 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> :(
+10.04.2024 - 10:46:31 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:46:33 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> Ich esse gerne Kuratz
+10.04.2024 - 10:46:35 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:36 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:37 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:39 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> Ich esse gerne Kuratz
+10.04.2024 - 10:46:40 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> helfen sie mir endlich
+10.04.2024 - 10:46:43 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> du evolutions-bremse
+10.04.2024 - 10:46:44 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:46:46 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> hallo
+10.04.2024 - 10:46:48 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> du evolutions-bremse
+10.04.2024 - 10:46:50 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> warum ignorieren sie mich?
+10.04.2024 - 10:46:52 | __chat_bot__ |  28228  - DEBUG    - main.py   :122 - Message sent >>> antworten sie mir bitte
+10.04.2024 - 10:49:05 | __chat_bot__ |  35048  - DEBUG    - main.py   :230 - Startup...
+10.04.2024 - 10:49:12 | __chat_bot__ |  35048  - DEBUG    - main.py   :122 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+10.04.2024 - 10:49:17 | __chat_bot__ |  35048  - DEBUG    - main.py   :122 - delay changed >>> min=1, max=4
+10.04.2024 - 10:49:22 | __chat_bot__ |  35048  - DEBUG    - main.py   :122 - delay changed >>> min=1, max=5
+10.04.2024 - 10:49:27 | __chat_bot__ |  35048  - DEBUG    - main.py   :241 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 5, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+10.04.2024 - 10:49:38 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> Ich mag Zuege
+10.04.2024 - 10:49:41 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> warum ignorierst du mich?
+10.04.2024 - 10:49:46 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> warum ignorierst du mich?
+10.04.2024 - 10:49:50 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:49:52 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:49:57 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:50:01 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:50:04 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> warum ignorierst du mich?
+10.04.2024 - 10:50:06 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> Ich mag Zuege
+10.04.2024 - 10:50:08 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> hilf mir endlich
+10.04.2024 - 10:50:13 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> du klugheits-verweigerer :/
+10.04.2024 - 10:50:19 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> hilf mir endlich
+10.04.2024 - 10:50:22 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:50:23 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:50:27 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:50:30 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> und das mit meiner schwester geht echt zu weit nh
+10.04.2024 - 10:50:31 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:50:33 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> antworten mir bitte
+10.04.2024 - 10:50:37 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> bitte es ist dringend
+10.04.2024 - 10:50:38 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> du evolutions-bremse
+10.04.2024 - 10:50:44 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> antworten mir bitte
+10.04.2024 - 10:50:46 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> warum ignorierst du mich?
+10.04.2024 - 10:50:49 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> hilf mir endlich
+10.04.2024 - 10:50:51 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> :/
+10.04.2024 - 10:50:54 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> du klugheits-verweigerer :/
+10.04.2024 - 10:50:57 | __chat_bot__ |  5596   - DEBUG    - main.py   :122 - Message sent >>> hilf mir endlich
+13.04.2024 - 16:12:51 | __chat_bot__ |  22356  - DEBUG    - main.py   :246 - Startup...
+13.04.2024 - 16:13:55 | __chat_bot__ |  22356  - DEBUG    - main.py   :138 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+13.04.2024 - 16:13:56 | __chat_bot__ |  22356  - DEBUG    - main.py   :138 - delay changed >>> min=20, max=30
+13.04.2024 - 16:13:58 | __chat_bot__ |  22356  - DEBUG    - main.py   :257 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 20, 'delay_max': 30, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+13.04.2024 - 16:14:11 | __chat_bot__ |  22356  - DEBUG    - main.py   :138 - delay changed >>> min=2, max=3
+13.04.2024 - 16:14:13 | __chat_bot__ |  22356  - DEBUG    - main.py   :257 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 2, 'delay_max': 3, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+13.04.2024 - 16:14:25 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> ich hab kein bock mehr
+13.04.2024 - 16:14:27 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> warum ignorierst du mich?
+13.04.2024 - 16:14:31 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> und das mit meiner schwester geht echt zu weit nh
+13.04.2024 - 16:14:33 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> Ich mag Zuege
+13.04.2024 - 16:14:35 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> du klugheits-verweigerer :/
+13.04.2024 - 16:14:37 | __chat_bot__ |  12020  - DEBUG    - main.py   :138 - Message sent >>> und das mit meiner schwester geht echt zu weit nh
+24.04.2024 - 08:54:44 | __chat_bot__ |  12872  - DEBUG    - main.py   :250 - Startup...
+26.04.2024 - 11:31:03 | __chat_bot__ |  14516  - DEBUG    - main.py   :250 - Startup...
+26.04.2024 - 11:31:41 | __chat_bot__ |  29956  - DEBUG    - main.py   :250 - Startup...
+26.04.2024 - 11:37:03 | __chat_bot__ |  28860  - DEBUG    - main.py   :250 - Startup...
+26.04.2024 - 11:37:24 | __chat_bot__ |  28860  - DEBUG    - main.py   :142 - coordinates changed >>> x=400, y=900
+26.04.2024 - 11:37:45 | __chat_bot__ |  28860  - DEBUG    - main.py   :142 - delay changed >>> min=30, max=60
+26.04.2024 - 11:37:51 | __chat_bot__ |  28860  - DEBUG    - main.py   :142 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+26.04.2024 - 11:37:59 | __chat_bot__ |  28860  - DEBUG    - main.py   :142 - delay changed >>> min=1, max=3
+26.04.2024 - 11:38:00 | __chat_bot__ |  28860  - DEBUG    - main.py   :261 - Startup Chat-Bot >>> {'x': 400, 'y': 900, 'delay_min': 1, 'delay_max': 3, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+26.04.2024 - 11:38:03 | __chat_bot__ |  28860  - DEBUG    - main.py   :261 - Startup Chat-Bot >>> {'x': 400, 'y': 900, 'delay_min': 1, 'delay_max': 3, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+26.04.2024 - 11:38:06 | __chat_bot__ |  28860  - DEBUG    - main.py   :142 - delay changed >>> min=1, max=3
+26.04.2024 - 11:38:15 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> :/
+26.04.2024 - 11:38:16 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> ich hab kein bock mehr
+26.04.2024 - 11:38:20 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> ich hab kein bock mehr
+26.04.2024 - 11:38:22 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> du evolutions-bremse
+26.04.2024 - 11:38:24 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> :/
+26.04.2024 - 11:38:26 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> antworten mir bitte
+26.04.2024 - 11:38:30 | __chat_bot__ |  26640  - DEBUG    - main.py   :142 - Message sent >>> bitte es ist dringend
+26.04.2024 - 11:39:13 | __chat_bot__ |  11608  - DEBUG    - main.py   :250 - Startup...
+26.04.2024 - 11:39:21 | __chat_bot__ |  11608  - DEBUG    - main.py   :142 - template selected >>> C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt
+26.04.2024 - 11:39:23 | __chat_bot__ |  11608  - DEBUG    - main.py   :261 - Startup Chat-Bot >>> {'x': None, 'y': None, 'delay_min': 1, 'delay_max': 8, 'template_file': 'C:/Users/hildwein/Documents/GitHub/Python_Own/Drafts/chatbot/msg.txt'}
+26.04.2024 - 11:39:37 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> warum hast du meine schwester angebaggert?
+26.04.2024 - 11:39:41 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> warum hast du meine schwester angebaggert?
+26.04.2024 - 11:39:48 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> warum ignorierst du mich?
+26.04.2024 - 11:39:50 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> hallo
+26.04.2024 - 11:39:55 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> du klugheits-verweigerer :/
+26.04.2024 - 11:40:00 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> du evolutions-bremse
+26.04.2024 - 11:40:06 | __chat_bot__ |  19412  - DEBUG    - main.py   :142 - Message sent >>> bitte es ist dringend
